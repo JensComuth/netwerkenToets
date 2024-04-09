@@ -1,9 +1,9 @@
 <?php
 
 $dbhost = 'localhost:3306';
-$dbuser = 'root';
-$dbpass = ''; 
-$dbname = 'create_tables';
+$dbuser = 'net24jcomuth_net24jcomuthToets';
+$dbpass = 'Ch!llSk!l#!1'; 
+$dbname = 'net24jcomuth_netwerkenToetsDB';
 
 $conn = new mysqli($dbhost,$dbuser,$dbpass,$dbname);
 if($conn->connect_error)
