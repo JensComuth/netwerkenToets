@@ -2,7 +2,7 @@
 
 $dbhost = 'localhost:3306';
 $dbuser = 'net24jcomuth_net24jcomuthToets';
-$dbpass = 'Ch!llSk!l#!1'; 
+$dbpass = 'gtye{;5m*nxo'; 
 $dbname = 'net24jcomuth_netwerkenToetsDB';
 
 $conn = new mysqli($dbhost,$dbuser,$dbpass,$dbname);
